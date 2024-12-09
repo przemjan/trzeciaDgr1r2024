@@ -28,5 +28,7 @@ public class Zmienne {
         char znak = '#';
         boolean sun = false; //true
 
+        // https://github.com/przemjan/trzeciaDgr1r2024
+
     }
 }
